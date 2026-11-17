@@ -3,7 +3,7 @@
 Carte, stationnement, trafic et itinéraires pour conduire à Antananarivo et dans
 toute la région Analamanga. Gratuite, sans compte, marche sans internet.
 
-**Site et téléchargement : https://raantss18.github.io/Fiara/**
+**Site et téléchargement : https://f-iara.mg/**
 
 Ce dépôt sert seulement à publier le site et les versions de l'app (APK). Une
 question, une erreur sur la carte, une idée : [ouvre un ticket](https://github.com/raantss18/Fiara/issues).
