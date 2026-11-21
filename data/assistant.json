@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "_doc": "Mots ajoutés au petit modèle de l'assistant (français, anglais, malgache), sans accents nécessaires. Livrés par le canal de contenu : modifiables sans nouvelle version.",
+  "words": {
+    "pharmacy": [
+      "fanafody",
+      "farmasia",
+      "fivarotam-panafody",
+      "mpivarotra fanafody"
+    ],
+    "police": [
+      "polisy",
+      "zandary",
+      "zandarimaria",
+      "mpitandro filaminana",
+      "halatra",
+      "nangalarina"
+    ],
+    "fire": [
+      "mpamono afo",
+      "may",
+      "afo"
+    ],
+    "hospital": [
+      "hopitaly",
+      "toeram-pitsaboana",
+      "dokotera",
+      "marary",
+      "naratra",
+      "loza"
+    ],
+    "help": [
+      "garazy",
+      "mekanisiana",
+      "mpanamboatra",
+      "kodiarana",
+      "simba",
+      "tapaka",
+      "nirava"
+    ],
+    "fuel": [
+      "lasantsy",
+      "solika",
+      "gazoaly",
+      "toby lasantsy"
+    ],
+    "parking": [
+      "fiantsonana",
+      "toeram-pijanonana",
+      "hijanona",
+      "hipetraka fiara"
+    ],
+    "myVehicle": [
+      "fiarako",
+      "motoko",
+      "ny fiarako"
+    ],
+    "traffic": [
+      "fitohanana",
+      "tohana",
+      "fifamoivoizana"
+    ],
+    "emergency": [
+      "vonjy",
+      "vonjeo",
+      "maika",
+      "loza"
+    ]
+  },
+  "_models_doc": "Catalogue du moteur L Katta (modèles gratuits sans inscription, HTTPS seulement). Le meilleur d'abord (0,75 × qualité + 0,25 × fiabilité vue par le téléphone). Modifiable sans nouvelle version.",
+  "models": [
+    {
+      "base_url": "https://api.kilo.ai/api/gateway",
+      "model": "inclusionai/ling-3.1-flash",
+      "quality": 0.69
+    },
+    {
+      "base_url": "https://api.llm7.io/v1",
+      "model": "DeepSeek-V4-Flash-0731",
+      "quality": 0.57
+    },
+    {
+      "base_url": "https://api.kilo.ai/api/gateway",
+      "model": "qwen/qwen3.8-27b:free",
+      "quality": 0.56
+    },
+    {
+      "base_url": "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1",
+      "model": "Qwen3.8-27B",
+      "quality": 0.56
+    },
+    {
+      "base_url": "https://api.llm7.io/v1",
+      "model": "gpt-oss:20b",
+      "quality": 0.12
+    }
+  ]
+}

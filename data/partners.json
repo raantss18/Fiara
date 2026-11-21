@@ -1,0 +1,7 @@
+{
+  "v": 1,
+  "_doc": "Emplacements payés, toujours marqués « Partenaire » dans l'app. parkings: [{id (offstreet.geojson), note: {fr, en}, until: AAAA-MM-JJ}]. services (dépanneurs, garages, même absents d'OpenStreetMap): [{name, kind: tow|garage, lat, lon, phone, note: {fr, en}, until}]. sponsor: {name, line: {fr, en}, until} ou null. emergency (remplace les numéros d'urgence de l'app ; ne mettre que des numéros vérifiés): [{number, label: {fr, en}}]. Publié avec le site ; l'app le relit une fois par jour.",
+  "sponsor": null,
+  "parkings": [],
+  "services": []
+}
