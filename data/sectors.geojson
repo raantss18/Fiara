@@ -1,0 +1,157 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "analakely-tsaralalana",
+    "name": "Analakely – Tsaralalàna",
+    "order": 1,
+    "live": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       47.5175,
+       -18.9118
+      ],
+      [
+       47.5282,
+       -18.9118
+      ],
+      [
+       47.5282,
+       -18.9032
+      ],
+      [
+       47.5175,
+       -18.9032
+      ],
+      [
+       47.5175,
+       -18.9118
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ambodivona-ankadifotsy-faravohitra",
+    "name": "Ambodivona – Ankadifotsy – Faravohitra",
+    "order": 2,
+    "live": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       47.5235,
+       -18.89
+      ],
+      [
+       47.5235,
+       -18.9032
+      ],
+      [
+       47.5282,
+       -18.9032
+      ],
+      [
+       47.5282,
+       -18.9125
+      ],
+      [
+       47.5335,
+       -18.9125
+      ],
+      [
+       47.5335,
+       -18.89
+      ],
+      [
+       47.5235,
+       -18.89
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mahamasina-tsimbazaza",
+    "name": "Mahamasina → Tsimbazaza",
+    "order": 3,
+    "live": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       47.5205,
+       -18.9375
+      ],
+      [
+       47.5325,
+       -18.9375
+      ],
+      [
+       47.5325,
+       -18.9145
+      ],
+      [
+       47.5205,
+       -18.9145
+      ],
+      [
+       47.5205,
+       -18.9375
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "analamahitsy",
+    "name": "Analamahitsy",
+    "order": 4,
+    "live": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       47.5405,
+       -18.881
+      ],
+      [
+       47.5535,
+       -18.881
+      ],
+      [
+       47.5535,
+       -18.866
+      ],
+      [
+       47.5405,
+       -18.866
+      ],
+      [
+       47.5405,
+       -18.881
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
